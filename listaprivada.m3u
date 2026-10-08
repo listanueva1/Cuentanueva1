@@ -1,0 +1,475 @@
+﻿#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/800px-FOX_Sports_logo.svg.png" group-title="DEPORTES MEXICO", FOX SPORT HD MEX
+http://planettvweb.com:8091/AdrAya89651/adriana42021/12008
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES MEXICO", FOX SPORT 2 HD MEX
+http://planettvweb.com:8091/AdrAya89651/adriana42021/12009
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="DEPORTES MEXICO", FOX SPORT 3 HD MEX
+http://planettvweb.com:8091/AdrAya89651/adriana42021/12010
+
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="DEPORTES MEXICO", ESPN HD MX
+http://planettvweb.com:8091/AdrAya89651/adriana42021/11991
+
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/70997_logo_espn_2.png" group-title="DEPORTES MEXICO", ESPN 2 MX HD
+http://planettvweb.com:8091/AdrAya89651/adriana42021/11989
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/espn-3-logo-01.png" group-title="DEPORTES MEXICO", ESPN 3 MX HD
+http://planettvweb.com:8091/AdrAya89651/adriana42021/11990
+
+#EXTINF:-1 tvg-logo="https://alruckershow.com/wp-content/uploads/2018/04/espn-plus-logo.png" group-title="DEPORTES MEXICO", ESPN PLUS MX HD
+http://planettvweb.com:8091/AdrAya89651/adriana42021/11992
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_10/large.Azteca_Trece_Coming_Azteca_Uno.png.db5cccf967ae812b9b5999e8b7ead435.png" group-title="MEXICO", Azteca Uno HD
+http://planettvweb.com:8091/AdrAya89651/adriana42021/41943
+
+#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES MEXICO", TUDN HD
+http://planettvweb.com:8091/AdrAya89651/adriana42021/50497
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO", Azteca 7 HD
+http://planettvweb.com:8091/AdrAya89651/adriana42021/95756
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/iNVHv1NSdpYadJdkbVfq37tyQVG.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S01 E01
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67261.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/4oe2CHnIAg5uSol8bVU7oazIbkr.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S01 E02
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67262.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/5c3uJWjaw5sWrD3HD9PtRLR7rh6.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S01 E03
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67263.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/cfA4hwXSFdItYlSkCoulZc1bpvw.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S01 E04
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67264.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/5fIsyQHakCZUuJ4yDpYzpSESUuE.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S01 E05
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67265.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/rwn36ynPySQ5LRPcF5Xv2YO880Y.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S01 E06
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67266.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/g4QitZWNoIqC6b44flR1mZV9n4q.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S01 E07
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67267.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/2JvCTJkAzEcxwPlO3r3w48PHXSJ.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S01 E08
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67268.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/gWjF8XGTj8wQILnIfGZGo7bFpVr.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S01 E09
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67269.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/pDq5dUeNIpmzP4LWoOMDVobX7Fc.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S01 E10
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67270.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/7BXyNNpVYpqO87AVnRojPk9FZ3d.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S01 E11
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67271.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/wbwkVl0MteuAIHPckzT8qsxjmQd.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S01 E12
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67272.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/sdoxVvLpptdgp7HAu2X1dvp5EnM.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S01 E13
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67273.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/rq14EF7HxzDRdy4gnsr7yAdIZ9.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S02 E01
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67274.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/mkvhLhpw0Zs9xgOaVSqyh2pvRJN.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S02 E02
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67275.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/z2gJcpi6gNalogqeO1G06KYeRUX.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S02 E03
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67276.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qJ9i7WLuqw1rVI8R8alAuEhLOiF.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S02 E04
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67277.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/5sXpS4AtXuMaQVd7DaosC2zDCKY.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S02 E05
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67278.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/soj0J2KdT591jEHJDqdS4cKSUYV.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S02 E06
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67279.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/i1gHrGStFYnPYEwY7c70kwG40gM.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S02 E07
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67280.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/rIQp061O6drgObwtPNU5uGlbgt1.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S02 E08
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67281.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/eIhLfgLQlUa0ww5hoFEP0TyIsYj.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S02 E09
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67282.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qsLhysxgrwQaBMsGZQWKEsz8hKa.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S02 E10
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67283.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/lBJAaJKuv7JQejRlvbWermnEmTB.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S02 E11
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67284.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vXkxx3G0HpGY6R5wjriu7wEDtQF.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S02 E12
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67285.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/jP6eIRlsaRT7dP4aJxr4iiJOZ3I.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S02 E13
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67286.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/shq2tPVjGSFhHy0X7qKza9X4MUY.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S03 E01
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67287.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3Kap8i8XDitCa7iPo58fi2e3YlD.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S03 E02
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67288.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/7FwDOMKEUzkLfDTvgCmTDbFGFWj.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S03 E03
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67289.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8BV6GL9foMUGjIjq7ozFjAxJdN.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S03 E04
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67290.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/LAXB3oL5DSpCgevsDK5XbJKiXB.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S03 E05
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67291.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/y5qCSXYRW4caR47bkrymhhVPrnb.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S03 E06
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67292.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/t93O5AIBX47lyU1otfu0mZ7iLfi.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S03 E07
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67293.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/67ouKEEIbrp8in5MfnFk0tr0Unc.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S03 E08
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67294.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvM6ANWnBjjnBsAjuyfRejAHS2.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S03 E09
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67295.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tFAM7Tjlm3eztY6OWAeQiXtzUj.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S03 E10
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67296.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m28OI3nfdrYNGc3lxiLouRFgIyc.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S03 E11
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67297.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgvh6P1EZa6xd7AyDs67njJbAC0.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S03 E12
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67298.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGR4XtSuqxJzLo42SabwyJZI2Vu.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S03 E13
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67299.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFfQln7vybGnjUPYNSSEErUk2y3.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S04 E01
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67300.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4OaUuzfQuRvB22OMSEaG30Nlt.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S04 E02
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67301.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Rg8LbZmRS86bYulgVpPLhHwtao.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S04 E03
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67302.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90ZH7YqFq08daQmOBiioVGN6qxv.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S04 E04
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67303.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pk7pVTFsbbtDTRNQAr3JdniXNGK.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S04 E05
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67304.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdH9zsZaDLwrOg47cDh0VVH00sa.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S04 E06
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67305.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IkAZRsLklH5kd3WQNyvU4eCeRs.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S04 E07
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67306.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbCB7k8cIUZx2UzMUdUOtP2kuAe.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S04 E08
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67307.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOn3CbYrCAe4lReN5s2x2aHsago.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S04 E09
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67308.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUMDNii373XfNxJS5EfbN0W9Yxd.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S04 E10
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67309.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/551S0PWj9KHbXCyhIXPV0dPwVz0.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S04 E11
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67310.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CS4r6nDb333LAo2s34SZOz4YXm.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S04 E12
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67311.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wG4QEc6T6f17OkjpHcPAWmfN1NF.jpg" group-title="HBO MAX", Roswell, Nuevo Mexico S04 E13
+http://planettvweb.com:8091/series/AdrAya89651/adriana42021/67312.mkv
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XmCuwIwriQMMaHmkfh7T756Htd.jpg" group-title="PELICULAS DE COMEDIAS", De Caperucita a loba (2023)
+http://planettvweb.com:8091/movie/AdrAya89651/adriana42021/102049.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XmCuwIwriQMMaHmkfh7T756Htd.jpg" group-title="PELICULAS DE COMEDIAS", De Caperucita a loba (2023)
+http://planettvweb.com:8091/movie/AdrAya89651/adriana42021/84836.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png/1200px-Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png" group-title="PERU", AMERICA TV
+http://planettvweb.com:8091/AdrAya89651/adriana42021/14027
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Latina_Television_-_2017_logo.png" group-title="PERU", LATINA
+http://planettvweb.com:8091/AdrAya89651/adriana42021/14032
+
+
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", CINE ACCION 01
+http://planettvweb.com:8091/AdrAya89651/adriana42021/20347
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", CINE: Acción 02
+http://planettvweb.com:8091/AdrAya89651/adriana42021/74599
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", CINE: Acción 03
+http://planettvweb.com:8091/AdrAya89651/adriana42021/74600
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", CINE: Acción 04
+http://planettvweb.com:8091/AdrAya89651/adriana42021/74601
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", CINE: Acción 05
+http://planettvweb.com:8091/AdrAya89651/adriana42021/74602
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Animaciones
+http://planettvweb.com:8091/AdrAya89651/adriana42021/74603
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", El mentalista
+http://planettvweb.com:8091/AdrAya89651/adriana42021/74604
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Cine Club
+http://planettvweb.com:8091/AdrAya89651/adriana42021/74605
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", CINE: ORO
+http://planettvweb.com:8091/AdrAya89651/adriana42021/74607
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", El Laboratorio de Dexter [1 - 4T]
+http://planettvweb.com:8091/AdrAya89651/adriana42021/74608
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", DraginBall
+http://planettvweb.com:8091/AdrAya89651/adriana42021/74609
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Dragon BallGT
+http://planettvweb.com:8091/AdrAya89651/adriana42021/74610
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Dragon Ball Super
+http://planettvweb.com:8091/AdrAya89651/adriana42021/74611
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Dragin Ball Z
+http://planettvweb.com:8091/AdrAya89651/adriana42021/74612
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Family Guy
+http://planettvweb.com:8091/AdrAya89651/adriana42021/74613
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Clásicos Disney
+http://planettvweb.com:8091/AdrAya89651/adriana42021/74614
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Las aventuras de Tom Sawyer
+http://planettvweb.com:8091/AdrAya89651/adriana42021/74615
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Peliculas Universo DC
+http://planettvweb.com:8091/AdrAya89651/adriana42021/74616
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Peliculas Batman
+http://planettvweb.com:8091/AdrAya89651/adriana42021/74617
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Game of Thrones HD
+http://planettvweb.com:8091/AdrAya89651/adriana42021/74618
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Las nuevas aventuras de Batman
+http://planettvweb.com:8091/AdrAya89651/adriana42021/74619
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", House of Cards
+http://planettvweb.com:8091/AdrAya89651/adriana42021/74620
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", La casa de papel
+http://planettvweb.com:8091/AdrAya89651/adriana42021/20341
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", DR House
+http://planettvweb.com:8091/AdrAya89651/adriana42021/20342
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Peliculas Marvel Cronologia
+http://planettvweb.com:8091/AdrAya89651/adriana42021/20343
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Breaking Bad [Completo]
+http://planettvweb.com:8091/AdrAya89651/adriana42021/20344
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Cine Ficcion/Fantasia 1
+http://planettvweb.com:8091/AdrAya89651/adriana42021/20345
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Ficcion/Fantasia 2
+http://planettvweb.com:8091/AdrAya89651/adriana42021/20346
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Los años maravillosos
+http://planettvweb.com:8091/AdrAya89651/adriana42021/20348
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Cine Infantil
+http://planettvweb.com:8091/AdrAya89651/adriana42021/20349
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Cine Infantil HD
+http://planettvweb.com:8091/AdrAya89651/adriana42021/20350
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Cine Latino
+http://planettvweb.com:8091/AdrAya89651/adriana42021/20352
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Peliculas Marvel Orden Estreno
+http://planettvweb.com:8091/AdrAya89651/adriana42021/20353
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Cine Romance HD
+http://planettvweb.com:8091/AdrAya89651/adriana42021/20354
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Bob Esponja
+http://planettvweb.com:8091/AdrAya89651/adriana42021/16421
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", CANTINFLAS SD
+http://planettvweb.com:8091/AdrAya89651/adriana42021/16422
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:Chespirito
+http://planettvweb.com:8091/AdrAya89651/adriana42021/16423
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Sin senos sí hay paraíso
+http://planettvweb.com:8091/AdrAya89651/adriana42021/38574
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Los Simpson (Temporadas 18-21)
+http://planettvweb.com:8091/AdrAya89651/adriana42021/38575
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Los Simpson (Temporadas 22-26)
+http://planettvweb.com:8091/AdrAya89651/adriana42021/38576
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Sin Senos no hay Paraíso
+http://planettvweb.com:8091/AdrAya89651/adriana42021/38577
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:EL CHAVO DEL 8
+http://planettvweb.com:8091/AdrAya89651/adriana42021/16425
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", LA_SD:CHAPULIN COLORADO
+http://planettvweb.com:8091/AdrAya89651/adriana42021/16426
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:MR. BEAN
+http://planettvweb.com:8091/AdrAya89651/adriana42021/16427
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:Looney Tunes
+http://planettvweb.com:8091/AdrAya89651/adriana42021/16428
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:Scooby Doo
+http://planettvweb.com:8091/AdrAya89651/adriana42021/16429
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Alf
+http://planettvweb.com:8091/AdrAya89651/adriana42021/16430
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:Los Picapiedra
+http://planettvweb.com:8091/AdrAya89651/adriana42021/16431
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:Two And a Half Men 24/7
+http://planettvweb.com:8091/AdrAya89651/adriana42021/16432
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:Dragon Ball GT
+http://planettvweb.com:8091/AdrAya89651/adriana42021/16434
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:DRAGON BALL
+http://planettvweb.com:8091/AdrAya89651/adriana42021/16435
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:Naruto
+http://planettvweb.com:8091/AdrAya89651/adriana42021/16436
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Friends
+http://planettvweb.com:8091/AdrAya89651/adriana42021/16437
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Elfen Lied
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17747
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Looney Tunes
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17748
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", El Coyote y el Correcaminos [Completo]
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17749
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", TOM Y JERRY SERIE COMPLETA
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17751
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Liga De La Justicia Ilimitada
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17752
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Daremound
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17753
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Peliculas Scary Movie
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17754
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", PINKI ELVIRA Y CEREBRO
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17755
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Pokémon
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17761
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Los Picapiedra
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17763
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Un Show Más
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17764
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", LA PANTERA ROSA
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17765
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", GARFIELD Y SUS AMIGOS
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17767
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", EL SHOW DE LA PEQUEÑA LU LU
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17769
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Pablo Escobar
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17770
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", CORAJE EL PERRO COBARDE
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17773
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Dinosaurios
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17775
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", El Pato Darkwing
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17779
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", La vaca y el pollito
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17782
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Ed, Edd y Eddy
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17785
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", The Big Bang Theory
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17787
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Elementary
+http://planettvweb.com:8091/AdrAya89651/adriana42021/17790
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", El Gallo Claudio
+http://planettvweb.com:8091/AdrAya89651/adriana42021/73706
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Animaniacs
+http://planettvweb.com:8091/AdrAya89651/adriana42021/73707
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Hey Arnold! [Completo]
+http://planettvweb.com:8091/AdrAya89651/adriana42021/73708
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Las chicas superpoderosas
+http://planettvweb.com:8091/AdrAya89651/adriana42021/73709
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", TrollHunters
+http://planettvweb.com:8091/AdrAya89651/adriana42021/73710
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Yu-Gi-Oh!
+http://planettvweb.com:8091/AdrAya89651/adriana42021/73711
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", El Principel del Rap
+http://planettvweb.com:8091/AdrAya89651/adriana42021/73712
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", One Punch Man
+http://planettvweb.com:8091/AdrAya89651/adriana42021/73713
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Smallville
+http://planettvweb.com:8091/AdrAya89651/adriana42021/73714
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Doraemon
+http://planettvweb.com:8091/AdrAya89651/adriana42021/73715
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Ranma ½ HD
+http://planettvweb.com:8091/AdrAya89651/adriana42021/73717
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Cine Romantico
+http://planettvweb.com:8091/AdrAya89651/adriana42021/101814
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Peliculas Inframundo
+http://planettvweb.com:8091/AdrAya89651/adriana42021/101815
+
+
